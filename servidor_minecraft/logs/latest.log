@@ -1,69 +1,51 @@
-[20:20:01] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:20:04] [ServerMain/INFO]: Loaded 1174 recipes
-[20:20:04] [ServerMain/INFO]: Loaded 1271 advancements
-[20:20:05] [Server thread/INFO]: Starting minecraft server version 1.20.2
-[20:20:05] [Server thread/INFO]: Loading properties
-[20:20:05] [Server thread/INFO]: This server is running Paper version git-Paper-318 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT) (Git: 9271ee7)
-[20:20:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:20:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:20:07] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[20:20:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[20:20:08] [Server thread/INFO]: Default game type: SURVIVAL
-[20:20:08] [Server thread/INFO]: Generating keypair
-[20:20:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:20:08] [Server thread/INFO]: Using epoll channel type
-[20:20:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:20:08] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:20:09] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[20:20:10] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[20:20:10] [Server thread/INFO]: [floodgate] Took 1,090ms to boot Floodgate
-[20:20:10] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.0
-[20:20:10] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.0 is now loaded. Registering protocol transformers and injecting...
-[20:20:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[20:20:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[20:20:11] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
-[20:20:12] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[20:20:12] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[20:20:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:20:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:20:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:20:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:20:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:20:12] [Server thread/INFO]: Preparing level "world"
-[20:20:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:20:13] [Server thread/INFO]: Time elapsed: 375 ms
-[20:20:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:20:13] [Server thread/INFO]: Time elapsed: 200 ms
-[20:20:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:20:14] [Server thread/INFO]: Time elapsed: 132 ms
-[20:20:14] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[20:20:15] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.0
-[20:20:15] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.2 (764)
-[20:20:15] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
-[20:20:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[20:20:16] [Server thread/INFO]: [Geyser-Spigot] 
-[20:20:16] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b734 (git-master-64c7adc)
-[20:20:16] [Server thread/INFO]: [Geyser-Spigot] 
-[20:20:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[20:20:24] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 1585
-[20:20:24] [Server thread/INFO]: [Geyser-Spigot] Done (8.192s)! Run /geyser help for help!
-[20:20:24] [Server thread/INFO]: Running delayed init tasks
-[20:20:24] [Server thread/INFO]: Done (19.785s)! For help, type "help"
-[20:20:24] [Server thread/INFO]: Timings Reset
-[20:20:24] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[20:21:23] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51
-[20:22:10] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51
-[20:23:21] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51
-[20:27:12] [User Authenticator #0/INFO]: UUID of player everzide is 0ecdcd29-3836-34ab-82dd-52570bc07243
-[20:27:13] [Server thread/INFO]: everzide joined the game
-[20:27:13] [Server thread/INFO]: everzide[/127.248.143.44:37919] logged in with entity id 223 at ([world]7.300000011920929, 90.0, -6.421678067931993)
-[20:29:25] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51
-[20:34:06] [Server thread/INFO]: everzide lost connection: Disconnected
-[20:34:06] [Server thread/INFO]: everzide left the game
-[20:44:30] [User Authenticator #1/INFO]: UUID of player everzide is 0ecdcd29-3836-34ab-82dd-52570bc07243
-[20:44:36] [Server thread/INFO]: everzide joined the game
-[20:44:36] [Server thread/INFO]: everzide[/127.248.143.44:42675] logged in with entity id 932 at ([world]7.699999988079071, 90.0, -7.97838308837576)
-[20:45:10] [Server thread/INFO]: everzide lost connection: Disconnected
-[20:45:10] [Server thread/INFO]: everzide left the game
+[23:52:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:52:01] [ServerMain/INFO]: No existing world data, creating new world
+[23:52:03] [ServerMain/INFO]: Loaded 1337 recipes
+[23:52:03] [ServerMain/INFO]: Loaded 1448 advancements
+[23:52:03] [Server thread/INFO]: Starting minecraft server version 1.21.2
+[23:52:03] [Server thread/INFO]: Loading properties
+[23:52:03] [Server thread/INFO]: Default game type: SURVIVAL
+[23:52:03] [Server thread/INFO]: Generating keypair
+[23:52:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:52:03] [Server thread/INFO]: Using epoll channel type
+[23:52:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:52:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:52:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:52:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:52:03] [Server thread/INFO]: Preparing level "world"
+[23:52:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:52:17] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:18] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:18] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:20] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:20] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:21] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:21] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:22] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:22] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:24] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:24] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:24] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:25] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:25] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:26] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:26] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:26] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:52:27] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[23:52:28] [Server thread/INFO]: Time elapsed: 10642 ms
+[23:52:28] [Server thread/INFO]: Done (24.413s)! For help, type "help"
+[23:52:35] [Server thread/INFO]: Stopping the server
+[23:52:35] [Server thread/INFO]: Stopping server
+[23:52:35] [Server thread/INFO]: Saving players
+[23:52:35] [Server thread/INFO]: Saving worlds
+[23:52:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:52:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:52:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:52:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
