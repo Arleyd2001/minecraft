@@ -62,3 +62,8 @@
 [20:29:25] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Outdated Bedrock client! This server supports the following Bedrock versions: 1.21.40 - 1.21.44, 1.21.50 - 1.21.51
 [20:34:06] [Server thread/INFO]: everzide lost connection: Disconnected
 [20:34:06] [Server thread/INFO]: everzide left the game
+[20:44:30] [User Authenticator #1/INFO]: UUID of player everzide is 0ecdcd29-3836-34ab-82dd-52570bc07243
+[20:44:36] [Server thread/INFO]: everzide joined the game
+[20:44:36] [Server thread/INFO]: everzide[/127.248.143.44:42675] logged in with entity id 932 at ([world]7.699999988079071, 90.0, -7.97838308837576)
+[20:45:10] [Server thread/INFO]: everzide lost connection: Disconnected
+[20:45:10] [Server thread/INFO]: everzide left the game
