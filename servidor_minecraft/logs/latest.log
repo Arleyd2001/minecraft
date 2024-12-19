@@ -462,3 +462,5 @@
 [03:57:11] [Server thread/INFO]: EVERZIDE[/127.249.74.91:49591] logged in with entity id 15237 at ([world]-34.5, 71.0, 8.5)
 [03:57:12] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 30.537885ms. Summary: Getting group for EVERZIDE
 [03:59:32] [Server thread/INFO]: EVERZIDE was slain by Zombie
+[04:04:21] [Server thread/INFO]: EVERZIDE lost connection: Timed out
+[04:04:21] [Server thread/INFO]: EVERZIDE left the game

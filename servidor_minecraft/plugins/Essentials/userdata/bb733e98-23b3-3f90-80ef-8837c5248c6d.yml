@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734574857015
+  logout: 1734581061962
   login: 1734580632135
 money: '0'
 last-account-name: EVERZIDE
 logoutlocation:
   world: 25783424-2e6a-4340-b472-8fd9ae35e856
   world-name: world
-  x: -228.3094312731492
-  y: -40.69190767675373
-  z: -279.6554167623234
-  yaw: -66.18585205078125
-  pitch: 13.50007152557373
+  x: -173.69999998807907
+  y: 105.0
+  z: -64.59041467413348
+  yaw: 141.00048828125
+  pitch: 27.600025177001953
 lastlocation:
   world: 25783424-2e6a-4340-b472-8fd9ae35e856
   world-name: world
