@@ -159,3 +159,25 @@
 [01:35:32] [Server thread/INFO]: everzide joined the game
 [01:35:32] [Server thread/INFO]: everzide[/127.249.74.91:44609] logged in with entity id 4504 at ([world]-306.28238905204, 94.0, -56.797066876160976)
 [01:35:46] [Server thread/INFO]: everzide issued server command: /weather clear
+[01:44:48] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Everzides
+[01:44:48] [localSession-7-2/INFO]: [Geyser-Spigot] Everzides (logged in as: Everzides) has connected to the Java server
+[01:44:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Everzides joined (UUID: 00000000-0000-0000-0009-01fa60886b62)
+[01:44:49] [Server thread/INFO]: .Everzides joined the game
+[01:44:49] [Server thread/INFO]: .Everzides[/127.0.0.1:0] logged in with entity id 6993 at ([world]-69.2823, 74.0, 13.519278)
+[01:45:24] [Async Chat Thread - #2/INFO]: [Not Secure] <.Everzides> jjss
+[01:45:29] [Server thread/INFO]: everzide issued server command: /tpaall
+[01:45:34] [Server thread/INFO]: .Everzides was slain by Spider
+[01:46:06] [Server thread/INFO]: everzide issued server command: /tp everzide .Everzides
+[01:46:23] [Server thread/INFO]: everzide issued server command: /day set day
+[01:46:41] [Server thread/WARN]: .Everzides moved too quickly! -12.816132000000003,2.0,0.2607379999999999
+[01:46:41] [Server thread/WARN]: .Everzides moved too quickly! -12.718395999999991,2.0,0.07204000000000121
+[01:46:41] [Server thread/WARN]: .Everzides moved too quickly! -12.718395999999991,2.0,0.07204000000000121
+[01:46:41] [Server thread/WARN]: .Everzides moved too quickly! -12.718395999999991,2.0,0.07204000000000121
+[01:46:41] [Server thread/WARN]: .Everzides moved too quickly! -12.718395999999991,2.0,0.07204000000000121
+[01:46:41] [Server thread/WARN]: .Everzides moved too quickly! -12.718395999999991,2.0,0.07204000000000121
+[01:46:41] [Server thread/WARN]: .Everzides moved too quickly! -12.718395999999991,2.0,0.07204000000000121
+[01:48:34] [Server thread/INFO]: .Everzides was slain by Warden
+[01:49:03] [Server thread/INFO]: .Everzides was slain by Warden
+[01:49:42] [Server thread/INFO]: everzide issued server command: /gamemode creative all
+[01:49:53] [Server thread/INFO]: everzide issued server command: /gamemode creative everzide
+[01:50:20] [Server thread/INFO]: everzide issued server command: /gamemode creative everzides
