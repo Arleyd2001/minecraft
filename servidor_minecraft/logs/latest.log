@@ -452,3 +452,13 @@
 [02:22:50] [Craft Scheduler Thread - 25 - Vault/INFO]: [Vault] Checking for Updates ... 
 [02:22:50] [Craft Scheduler Thread - 26 - Essentials/INFO]: [Essentials] Fetching version information...
 [02:22:50] [Craft Scheduler Thread - 25 - Vault/INFO]: [Vault] No new version available
+[03:57:08] [User Authenticator #2/WARN]: [LuckPerms] LuckPerms already has data for player 'EVERZIDE' - but this data is stored under a different UUID.
+[03:57:08] [User Authenticator #2/WARN]: [LuckPerms] 'EVERZIDE' has previously used the unique ids [0ecdcd29-3836-34ab-82dd-52570bc07243] but is now connecting with 'bb733e98-23b3-3f90-80ef-8837c5248c6d'
+[03:57:08] [User Authenticator #2/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[03:57:08] [User Authenticator #2/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[03:57:08] [User Authenticator #2/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[03:57:08] [User Authenticator #2/INFO]: UUID of player EVERZIDE is bb733e98-23b3-3f90-80ef-8837c5248c6d
+[03:57:11] [Server thread/INFO]: EVERZIDE joined the game
+[03:57:11] [Server thread/INFO]: EVERZIDE[/127.249.74.91:49591] logged in with entity id 15237 at ([world]-34.5, 71.0, 8.5)
+[03:57:12] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 30.537885ms. Summary: Getting group for EVERZIDE
+[03:59:32] [Server thread/INFO]: EVERZIDE was slain by Zombie
