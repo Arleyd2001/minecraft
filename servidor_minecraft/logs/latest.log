@@ -319,3 +319,14 @@
 [02:09:10] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Everzides disconnected
 [02:09:11] [Server thread/INFO]: .Everzides lost connection: Disconnected
 [02:09:11] [Server thread/INFO]: .Everzides left the game
+[02:12:11] [epollEventLoopGroup-4-4/INFO]: [Geyser-Spigot] Player connected with username Everzides
+[02:12:11] [localSession-7-4/INFO]: [Geyser-Spigot] Everzides (logged in as: Everzides) has connected to the Java server
+[02:12:11] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Everzides joined (UUID: 00000000-0000-0000-0009-01fa60886b62)
+[02:12:11] [Server thread/INFO]: .Everzides joined the game
+[02:12:11] [Server thread/INFO]: .Everzides[/127.0.0.1:0] logged in with entity id 13897 at ([world]253.47011, 70.0, 69.84741)
+[02:15:24] [localSession-7-4/INFO]: [Geyser-Spigot] Everzides has disconnected from the Java server because of Bedrock client disconnected
+[02:15:24] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Everzides disconnected
+[02:15:24] [Server thread/INFO]: .Everzides lost connection: Disconnected
+[02:15:24] [Server thread/INFO]: .Everzides left the game
+[02:20:57] [Server thread/INFO]: everzide lost connection: Disconnected
+[02:20:57] [Server thread/INFO]: everzide left the game
