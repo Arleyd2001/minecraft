@@ -20,3 +20,11 @@ timestamps:
   login: 1734572689878
 money: '0'
 last-account-name: .Everzides
+lastlocation:
+  world: 25783424-2e6a-4340-b472-8fd9ae35e856
+  world-name: world
+  x: -111.509605
+  y: 118.5385
+  z: 12.555607
+  yaw: -127.40235900878906
+  pitch: 45.307220458984375

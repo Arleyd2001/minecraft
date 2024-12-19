@@ -7,7 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2024-12-19 01:51:28 +0000",
+      "minecraft:sparse_jungle": "2024-12-19 01:51:26 +0000",
       "minecraft:river": "2024-12-19 01:49:35 +0000",
+      "minecraft:savanna": "2024-12-19 01:58:37 +0000",
       "minecraft:plains": "2024-12-19 00:49:34 +0000"
     },
     "done": false
