@@ -5,17 +5,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-19 01:25:46 +0000",
+      "minecraft:river": "2024-12-19 01:25:42 +0000",
+      "minecraft:plains": "2024-12-19 00:55:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-19 00:56:01 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2024-12-19 00:55:08 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3953
 }
