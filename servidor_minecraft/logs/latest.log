@@ -143,3 +143,19 @@
 [01:28:25] [Server thread/INFO]: everzide died
 [01:30:05] [Server thread/INFO]: everzide issued server command: /tls
 [01:30:10] [Server thread/INFO]: everzide issued server command: /ms
+[01:30:14] [Async Chat Thread - #0/INFO]: [Not Secure] <everzide> help
+[01:30:19] [Server thread/INFO]: everzide issued server command: /help
+[01:30:31] [Server thread/INFO]: everzide issued server command: /time set day
+[01:31:49] [Server thread/INFO]: everzide issued server command: /kill
+[01:31:54] [Server thread/INFO]: everzide issued server command: /kill everzide
+[01:31:54] [Server thread/INFO]: everzide died
+[01:33:25] [Server thread/INFO]: everzide issued server command: /tps
+[01:33:29] [Server thread/INFO]: everzide issued server command: /tps
+[01:33:56] [Server thread/INFO]: everzide issued server command: /me
+[01:34:08] [Server thread/INFO]: everzide issued server command: /memory
+[01:35:01] [Server thread/INFO]: everzide lost connection: Disconnected
+[01:35:01] [Server thread/INFO]: everzide left the game
+[01:35:31] [User Authenticator #1/INFO]: UUID of player everzide is 0ecdcd29-3836-34ab-82dd-52570bc07243
+[01:35:32] [Server thread/INFO]: everzide joined the game
+[01:35:32] [Server thread/INFO]: everzide[/127.249.74.91:44609] logged in with entity id 4504 at ([world]-306.28238905204, 94.0, -56.797066876160976)
+[01:35:46] [Server thread/INFO]: everzide issued server command: /weather clear
