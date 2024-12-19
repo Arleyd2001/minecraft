@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1734572689878
+  logout: 1734574151025
+  login: 1734574053422
 money: '0'
 last-account-name: .Everzides
 lastlocation:
@@ -28,3 +28,11 @@ lastlocation:
   z: 12.555607
   yaw: -127.40235900878906
   pitch: 45.307220458984375
+logoutlocation:
+  world: 25783424-2e6a-4340-b472-8fd9ae35e856
+  world-name: world
+  x: 253.47011
+  y: 70.0
+  z: 69.84741
+  yaw: -179.40097045898438
+  pitch: 23.045578002929688
